@@ -2,7 +2,7 @@ package apiserver
 
 import (
 	"context"
-	"github.com/cap79/GopherSocial/internal/store"
+	"github.com/cappstr/GopherSocial/internal/store"
 	"log/slog"
 	"net/http"
 	"strconv"
