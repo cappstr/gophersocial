@@ -3,8 +3,8 @@ package apiserver
 import (
 	"context"
 	"errors"
-	"github.com/cap79/GopherSocial/internal/config"
-	"github.com/cap79/GopherSocial/internal/store"
+	"github.com/cappstr/GopherSocial/internal/config"
+	"github.com/cappstr/GopherSocial/internal/store"
 	"log/slog"
 	"net"
 	"net/http"
