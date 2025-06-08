@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/cap79/GopherSocial/internal/apiserver"
-	"github.com/cap79/GopherSocial/internal/config"
-	"github.com/cap79/GopherSocial/internal/store"
+	"github.com/cappstr/GopherSocial/internal/apiserver"
+	"github.com/cappstr/GopherSocial/internal/config"
+	"github.com/cappstr/GopherSocial/internal/store"
 	"io"
 	"log/slog"
 	"os"
