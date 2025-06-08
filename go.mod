@@ -1,4 +1,4 @@
-module github.com/cap79/GopherSocial
+module github.com/cappstr/GopherSocial
 
 go 1.23.0
 
