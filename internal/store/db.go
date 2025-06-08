@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 	"fmt"
-	"github.com/cap79/GopherSocial/internal/config"
+	"github.com/cappstr/GopherSocial/internal/config"
 	"time"
 
 	_ "github.com/lib/pq"
