@@ -2,7 +2,7 @@ package apiserver
 
 import (
 	"fmt"
-	"github.com/cap79/GopherSocial/internal/config"
+	"github.com/cappstr/GopherSocial/internal/config"
 	"github.com/golang-jwt/jwt/v5"
 	"strconv"
 	"time"
